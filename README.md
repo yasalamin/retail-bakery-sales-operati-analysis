@@ -31,6 +31,8 @@ Cake Berry Bakers needed to:
 ## 📈 Dashboard Preview
 https://github.com/yasalamin/retail-bakery-sales-operati-analysis/blob/main/Dashboard.png
 
+## Analysis Report
+https://github.com/yasalamin/retail-bakery-sales-operati-analysis/blob/main/Cakeberry%20Bakery%20Report.docx
 ## 💡 Business Recommendations
 - Adjust staff scheduling based on peak hours
 - Optimize ingredient ordering based on seasonal patterns
