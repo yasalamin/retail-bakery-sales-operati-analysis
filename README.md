@@ -29,9 +29,7 @@ Cake Berry Bakers needed to:
 - Recommendation: Adjust inventory for low-demand months by 15%
 
 ## 📈 Dashboard Preview
-![Peak Hours](screenshots/peak_hours.png)
-![Seasonal Trends](screenshots/seasonal_trends.png)
-![Inventory Costs](screenshots/inventory_costs.png)
+https://github.com/yasalamin/retail-bakery-sales-operati-analysis/blob/main/Dashboard.png
 
 ## 💡 Business Recommendations
 - Adjust staff scheduling based on peak hours
